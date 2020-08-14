@@ -5,5 +5,6 @@ For daily make
 
 | Date  | Made  |
 |:---|:---|
-| 2020 Aug 10  | [Animated Heatmap](20200810_animated-heatmap)  |
-| 2020 Aug 13  | Polar Plot  |
+| 2020 Aug 10  | [Animated Heatmap](animated-heatmap)  |
+| 2020 Aug 13  | [Polar Plot](circle-time)  |
+| 2020 Aug 14  | [Animated Lines](animated-line)  |
