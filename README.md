@@ -1,5 +1,7 @@
 # `./make`
 For daily make
+Code on gh
+Graphics on ...
 
 
 
