@@ -3,6 +3,10 @@ For daily make
 Code on gh
 Graphics on ...
 
+## td 
+
+- [ ] File structure of repo 
+- [ ] File structure of each project — include a `TIL`
 
 
 | Date  | Made  |
